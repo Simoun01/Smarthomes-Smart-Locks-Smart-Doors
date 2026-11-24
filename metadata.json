@@ -1,0 +1,6 @@
+{
+  "name": "Smarthomes GCC Pampanga",
+  "description": "Bilingual static website for Smarthomes — smart locks, smart doors, CCTV & home security at Global Construct City (GCC), Pampanga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
